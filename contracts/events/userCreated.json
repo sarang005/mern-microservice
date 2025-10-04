@@ -1,0 +1,9 @@
+{
+  "event": "UserCreated",
+  "description": "Fired when a new user is registered",
+  "payload": {
+    "id": "string",
+    "email": "string",
+    "role": "string"
+  }
+}
